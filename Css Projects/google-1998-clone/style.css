@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.first-part {
+  background-color: rgb(231, 228, 228);
+  width: 1707px;
+  margin: auto;
+  height: 60px;
+}
+
+.second-part {
+  display: inline-block;
+  display: flex;
+  align-items: baseline;
+  width: 1707px;
+  margin: auto;
+}
+
+.box1 {
+  width: 37%;
+  height: 74px;
+  background-color: #7ee5da;
+  border: 1px solid white;
+}
+
+.box2 {
+  width: 330px;
+  height: 74px;
+  background-color: #70ccc2;
+  border: 1px solid white;
+  font-size: 13px;
+}
+
+.box3 {
+  width: 740px;
+  height: 74px;
+  background-color: #62b3aa;
+  border: 1px solid white;
+  font-size: 13px;
+}

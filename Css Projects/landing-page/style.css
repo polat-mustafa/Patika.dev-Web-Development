@@ -1,0 +1,48 @@
+html {
+  background-color: bisque;
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  border: 6px solid black;
+  border-radius: 50px;
+  padding: 0 20px 20px 20px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  height: 500px;
+  width: 500px;
+  border-radius: 50px;
+}
+article {
+  background-color: rgb(55, 55, 235);
+  border-radius: 30px;
+  padding: 1px;
+  margin: 30px;
+}
+strong {
+  background-color: rgb(55, 55, 235);
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+}
+.baslik {
+  padding-left: 2rem;
+  color: white;
+}
+.mail {
+  background-color: rgb(55, 55, 235);
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+}

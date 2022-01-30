@@ -1,0 +1,16 @@
+.container-fluid {
+  background-color: #e9ecef;
+}
+
+#jumbo {
+  background-color: bisque;
+  margin-bottom: 2rem;
+}
+
+#row-1 {
+  margin-bottom: 5rem;
+}
+
+#navbar {
+  margin-bottom: 3rem;
+}
